@@ -1,0 +1,150 @@
+<resources>
+
+    <string name="app_name" translatable="false">Vici</string>
+    <string name="author_name" translatable="false" >DreamInCode</string>
+    <string name="icon_author_name" translatable="false">Kevin Aguilar</string>
+
+
+    <!-- Pages -->
+    <string name="page_settings">Einstellungen</string>
+
+    <string name="page_favorites">Favoriten</string>
+    <string name="page_albums">Alben</string>
+    <string name="page_moments">Momente</string>
+    <string name="page_recents">Kürzlich</string>
+    <string name="page_vault">Tresor</string>
+
+    <!-- Status -->
+    <string name="sorry">Entschuldigung</string>
+    <string name="error">Fehler!</string>
+    <string name="read_error">Fehler beim Lesen des Bildes!</string>
+    <string name="permission">Genehmigung erforderlich</string>
+
+    <!-- No Permissions -->
+    <string name="no_read">Diese App benötigt eine Speicherberechtigung, um die Bilder zu laden.</string>
+
+    <!-- Media -->
+    <string name="image">Bild</string>
+    <string name="folder">Ordner</string>
+    <string name="video">Video</string>
+
+    <string name="tags">Tags</string>
+    <string name="images">Bilder</string>
+    <string name="albums">Alben</string>
+
+    <!-- Actions -->
+    <string name="action_password">Bitte geben Sie Ihr Passwort ein</string>
+    <string name="action_create_password">Bitte erstellen Sie ein Passwort</string>
+    <string name="action_menu">Menü</string>
+    <string name="action_add_tag">Tag hinzufügen</string>
+    <string name="action_reset">Zurücksetzen</string>
+    <string name="action_toggle_ui">Ansicht ändern</string>
+    <string name="action_search">Suche</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_info">Info</string>
+    <string name="action_vault">Zu Tresor hinzufügen</string>
+    <string name="action_manage_tags">Tags verwalten</string>
+    <string name="action_vault_remove">Aus Tresor entfernen</string>
+    <string name="action_hide">Ausschließen</string>
+    <string name="action_copy_to">Kopieren nach</string>
+    <string name="action_move_to">Verschieben nach</string>
+    <string name="action_set">Setzen als</string>
+    <string name="action_edit">Bearbeiten</string>
+    <string name="action_print">Drucken</string>
+    <string name="action_sort">Sortieren nach</string>
+    <string name="action_wallpaper">Als Hintergrund setzen</string>
+    <string name="action_return">Zurück</string>
+    <string name="action_toggle_selection">Auswahl</string>
+    <string name="action_pick_color">Farbe auswählen</string>
+    <string name="action_lock">Scrollen deaktivieren</string>
+
+    <!-- Sort actions -->
+    <string name="action_sort_date_asc">Datum (aufsteigend)</string>
+    <string name="action_sort_date_desc">Datum (absteigend)</string>
+    <string name="action_sort_name_asc">Name (aufsteigend)</string>
+    <string name="action_sort_name_desc">Name (absteigend)</string>
+
+    <!-- Action questions -->
+    <string name="sign_off">Ausloggen</string>
+    <string name="action_edit_with">Bearbeiten mit:</string>
+    <string name="delete_sure">Wollen Sie dieses Bild wirklich löschen?</string>
+    <string name="delete_sure_more">Wollen Sie diese Dateien wirklich löschen?</string>
+
+    <!-- Action tag -->
+    <string name="action_new_tag">Bitte geben Sie einen Namen ein</string>
+    <string name="action_new_tag_made">Tag erstellt!</string>
+    <string name="action_new_tag_zero">Bitte geben Sie einen gültigen Namen ein</string>
+
+    <!-- Action results -->
+    <string name="image_updated_success">Bild erfolgreich aktualisiert</string>
+    <string name="image_updated_failed">Bild konnte nicht aktualisiert werden</string>
+    <string name="action_wallpaper_succes">Bild erfolgreich als Hintergrund gesetzt</string>
+    <string name="no_images_found">Keine Bilder gefunden</string>
+    <string name="wrong_password">Falsches Passwort!</string>
+    <string name="process_already_running">Es läuft bereits ein anderer Vorgang.</string>
+    <string name="nothing_selected">Nichts ausgewählt</string>
+
+    <string name="password_change_success">Passwort erfolgreich gesetzt</string>
+    <string name="password_change_failed">Passwörter stimmen nicht überein</string>
+    <string name="password_length_failed">Passwort muss mindestens 4 Zeichen lang sein</string>
+    <string name="password_empty_failed">Passwort kann nicht leer sein</string>
+    <string name="logged_off">Erfolgreich ausgeloggt!</string>
+
+    <!-- Action anwser -->
+    <string name="oke">Okay</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="current_selected_sort">Sortierreihenfolge bereits ausgewählt</string>
+
+    <!-- Preferences -->
+    <string name="dark_theme">Dunkles Design</string>
+    <string name="primary_color">Primärfarbe</string>
+    <string name="accent_color">Akzentfarbe</string>
+
+    <string name="primary_color_summary">Wählen Sie eine Primärfarbe aus</string>
+    <string name="accent_color_summary">Wählen Sie eine Akzentfarbe aus</string>
+
+    <string name="optimize_library">Gallerie optimieren</string>
+    <string name="optimize_library_summary">Verbessert Farbsuche und allgemeines Erlebnis</string>
+    <string name="optimize_library_before_load">Je nach Anzahl Ihrer Bilder kann dies einige Minuten dauern.\nSie können diesen Vorgang jederzeit abbrechen und später fortsetzen.</string>
+    <string name="done_optimize_library">Gallerie optimiert</string>
+
+    <string name="action_change_password">Tresorpasswort ändern</string>
+
+    <string name="action_clear_hidden">Liste von ausgeschlossenen Bildern leeren</string>
+    <string name="action_clear_hidden_summary">Bilder in der Liste werden wieder in der Gallerie angezeigt</string>
+
+    <!-- preference cats-->
+    <string name="setting_appearance">Aussehen</string>
+    <string name="setting_other">Sonstiges</string>
+    <string name="setting_personal">Konto</string>
+    <string name="about">Über Vici</string>
+
+    <!-- Other -->
+    <string name="name">Name</string>
+    <string name="description">Beschreibung</string>
+    <string name="password">Passwort</string>
+    <string name="repeat_password">Passwort wiederholen</string>
+    <string name="author">Urheber</string>
+    <string name="icon">Icon</string>
+
+
+    <!-- Tags -->
+    <string name="tag_me">Ich</string>
+    <string name="tag_friends">Freunde</string>
+    <string name="tag_family">Familie</string>
+    <string name="tag_sport">Sport</string>
+    <string name="tag_pets">Haustiere</string>
+    <string name="tag_holidays">Urlaube</string>
+
+    <!-- KEYS -->
+    <string name="key_about">about</string>
+    <string name="key_sign_off">soff</string>
+    <string name="key_change_password">chngpsword</string>
+    <string name="key_base_color">baseColor</string>
+    <string name="key_accent_color">accentColor</string>
+    <string name="key_dark_theme">darkTheme</string>
+    <string name="key_library_optimize">libOptim</string>
+    <string name="key_clear_hidden">clearHiddn</string>
+</resources>
